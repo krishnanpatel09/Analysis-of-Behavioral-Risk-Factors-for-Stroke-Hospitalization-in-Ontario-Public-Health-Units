@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-E67E22?style=flat&logo=pandas&logoColor=white" alt="Pandas"></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-Visualization-4CAF50?style=flat" alt="Seaborn"></a>
-  <a href="https://www.statsmodels.org/" target="_blank"><img src="https://img.shields.io/badge/Statsmodels-Regression-8E44AD?style=flat" alt="Statsmodels"></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--learn-ML-E74C3C?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn"></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-E67E22?style=flat&logo=pandas&logoColor=white" alt="Pandas"></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-Visualization-4CAF50?style=flat" alt="Seaborn"></a>
+  <a href="https://www.statsmodels.org/"><img src="https://img.shields.io/badge/Statsmodels-Regression-8E44AD?style=flat" alt="Statsmodels"></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-ML-E74C3C?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn"></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"></a>
 </p>
 📌 Overview
 

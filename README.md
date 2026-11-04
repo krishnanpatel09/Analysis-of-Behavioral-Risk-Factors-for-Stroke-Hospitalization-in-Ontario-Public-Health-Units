@@ -1,4 +1,17 @@
-<h1 align="center">🧠 Behavioral Risk Factors & Stroke Hospitalization in Ontario</h1> <p align="center"> Data analytics project examining how smoking, physical inactivity, heavy drinking and nutrition relate to stroke hospitalization rates across Ontario Public Health Units. </p> <p align="center"> <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-E67E22?style=flat&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Seaborn-Visualization-4CAF50?style=flat" alt="Seaborn"> <img src="https://img.shields.io/badge/Statsmodels-Regression-8E44AD?style=flat" alt="Statsmodels"> <img src="https://img.shields.io/badge/Scikit--learn-ML-E74C3C?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn"> <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"> </p>
+<h1 align="center">🧠 Behavioral Risk Factors & Stroke Hospitalization in Ontario</h1>
+
+<p align="center">
+  Data analytics project examining how smoking, physical inactivity, heavy drinking and nutrition relate to stroke hospitalization rates across Ontario Public Health Units.
+</p>
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-E67E22?style=flat&logo=pandas&logoColor=white" alt="Pandas"></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-Visualization-4CAF50?style=flat" alt="Seaborn"></a>
+  <a href="https://www.statsmodels.org/" target="_blank"><img src="https://img.shields.io/badge/Statsmodels-Regression-8E44AD?style=flat" alt="Statsmodels"></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--learn-ML-E74C3C?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn"></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+</p>
 📌 Overview
 
 Stroke is a major cause of hospitalization and long-term disability in Ontario, and many of its risk factors are modifiable at the population level. This project analyzes how behavioral risk factors relate to stroke hospitalization rates across Ontario Public Health Units (PHUs), using publicly available data from Public Health Ontario.

@@ -1,0 +1,19 @@
+
+Project Summary
+
+This analysis examined the relationship between stroke hospitalization rates and four behavioral risk factors
+across Ontario Public Health Units for 2016 and 2017.
+
+The main regression model with year effect explained 43.50% of the variation in stroke hospitalization rates.
+
+The strongest predictor was smoking_rate, with an estimated coefficient of 3.438
+and p-value of 0.0024.
+
+The results suggest that smoking is the most important behavioral risk factor in this dataset and should
+be prioritized in regional prevention strategies.
+
+Other factors, including physical inactivity, poor diet, and heavy drinking, showed weaker or statistically
+insignificant relationships in the current sample, but may still be relevant for targeted public health action.
+
+Regularized models were also tested. Lasso slightly outperformed Ridge, indicating that the model is stable
+and that the key signal remains concentrated in a small number of predictors.

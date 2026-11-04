@@ -1,0 +1,6 @@
+Limitation,Description
+Small sample size,"The final dataset includes 44 PHU-year observations, which limits statistical power."
+Two-year time window,"The analysis covers only 2016 and 2017, which may not capture longer-term trends."
+Ecological design,Associations are measured at PHU level and do not imply individual-level causation.
+Forward-filled risk factor assumptions,Some risk factors were held constant across adjacent years due to data availability.
+Potential omitted variables,"Other relevant variables such as age distribution, income, or comorbidities were not included."

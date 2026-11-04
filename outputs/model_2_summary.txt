@@ -1,0 +1,31 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:       stroke_hosp_rate   R-squared:                       0.435
+Model:                            OLS   Adj. R-squared:                  0.361
+Method:                 Least Squares   F-statistic:                     5.851
+Date:                Fri, 13 Mar 2026   Prob (F-statistic):           0.000421
+Time:                        23:36:44   Log-Likelihood:                -183.50
+No. Observations:                  44   AIC:                             379.0
+Df Residuals:                      38   BIC:                             389.7
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+Intercept             108.3144     89.797      1.206      0.235     -73.470     290.098
+C(Year)[T.2017]         2.3409      5.083      0.461      0.648      -7.948      12.630
+smoking_rate            3.4380      1.059      3.248      0.002       1.295       5.581
+no_pa_minutes_rate     -1.6625      0.944     -1.761      0.086      -3.573       0.248
+low_fv_rate             0.4384      1.185      0.370      0.714      -1.961       2.838
+heavy_drinking_rate    -0.8307      0.710     -1.170      0.249      -2.268       0.606
+==============================================================================
+Omnibus:                        3.503   Durbin-Watson:                   1.080
+Prob(Omnibus):                  0.174   Jarque-Bera (JB):                3.104
+Skew:                           0.646   Prob(JB):                        0.212
+Kurtosis:                       2.853   Cond. No.                     3.21e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.21e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

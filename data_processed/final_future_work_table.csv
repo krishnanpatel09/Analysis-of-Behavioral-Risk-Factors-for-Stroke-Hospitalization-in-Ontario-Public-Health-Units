@@ -1,0 +1,6 @@
+Future Work,Description
+Expand time horizon,Incorporate more years when aligned risk factor data becomes available.
+Add demographic covariates,Add socioeconomic and demographic indicators such as marginalization or age composition.
+Use panel fixed effects models,Estimate more advanced longitudinal models controlling for PHU-specific heterogeneity.
+Build interactive dashboard,Develop a dashboard for regional comparison of risk factors and stroke burden.
+Test classification models,Test whether PHUs can be classified into high-risk groups using supervised learning.

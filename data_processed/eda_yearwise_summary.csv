@@ -1,0 +1,5 @@
+,stroke_hosp_rate,stroke_hosp_rate,stroke_hosp_rate,stroke_hosp_rate,stroke_hosp_rate,smoking_rate,smoking_rate,smoking_rate,smoking_rate,smoking_rate,no_pa_minutes_rate,no_pa_minutes_rate,no_pa_minutes_rate,no_pa_minutes_rate,no_pa_minutes_rate,low_fv_rate,low_fv_rate,low_fv_rate,low_fv_rate,low_fv_rate,heavy_drinking_rate,heavy_drinking_rate,heavy_drinking_rate,heavy_drinking_rate,heavy_drinking_rate
+,mean,median,std,min,max,mean,median,std,min,max,mean,median,std,min,max,mean,median,std,min,max,mean,median,std,min,max
+Year,,,,,,,,,,,,,,,,,,,,,,,,,
+2016,122.19545454545455,117.35,21.99721794688131,86.7,187.6,15.986363636363636,15.65,4.502305806557078,7.9,26.2,19.400000000000002,19.2,3.2932832076385843,13.5,26.0,72.37727272727273,72.6,2.635098591845206,66.8,77.5,48.82272727272727,50.0,6.671326834416205,33.1,56.1
+2017,124.53636363636365,124.6,20.573666605050192,90.0,168.7,15.986363636363636,15.65,4.502305806557078,7.9,26.2,19.400000000000002,19.2,3.2932832076385843,13.5,26.0,72.37727272727273,72.6,2.635098591845206,66.8,77.5,48.82272727272727,50.0,6.671326834416205,33.1,56.1

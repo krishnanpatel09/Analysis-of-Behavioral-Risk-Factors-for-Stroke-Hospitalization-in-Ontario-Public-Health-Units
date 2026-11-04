@@ -1,0 +1,7 @@
+Finding,Value
+Main regression model,OLS with Year Effect
+Model R-squared,0.435
+Best predictive regularized model,Lasso
+Statistically significant predictor,smoking_rate
+Strongest standardized predictor,smoking_rate
+Multicollinearity status,"Acceptable, all predictor VIF values below 5"

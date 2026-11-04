@@ -1,0 +1,31 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:       stroke_hosp_rate   R-squared:                       0.435
+Model:                            OLS   Adj. R-squared:                  0.361
+Method:                 Least Squares   F-statistic:                     4.694
+Date:                Fri, 13 Mar 2026   Prob (F-statistic):            0.00196
+Time:                        23:36:44   Log-Likelihood:                -183.50
+No. Observations:                  44   AIC:                             379.0
+Df Residuals:                      38   BIC:                             389.7
+Df Model:                           5                                         
+Covariance Type:                  HC3                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+Intercept             108.3144     83.570      1.296      0.203     -60.864     277.493
+C(Year)[T.2017]         2.3409      5.480      0.427      0.672      -8.753      13.435
+smoking_rate            3.4380      1.570      2.190      0.035       0.260       6.616
+no_pa_minutes_rate     -1.6625      1.058     -1.571      0.125      -3.805       0.480
+low_fv_rate             0.4384      0.985      0.445      0.659      -1.556       2.433
+heavy_drinking_rate    -0.8307      0.806     -1.031      0.309      -2.462       0.801
+==============================================================================
+Omnibus:                        3.503   Durbin-Watson:                   1.080
+Prob(Omnibus):                  0.174   Jarque-Bera (JB):                3.104
+Skew:                           0.646   Prob(JB):                        0.212
+Kurtosis:                       2.853   Cond. No.                     3.21e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+[2] The condition number is large, 3.21e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

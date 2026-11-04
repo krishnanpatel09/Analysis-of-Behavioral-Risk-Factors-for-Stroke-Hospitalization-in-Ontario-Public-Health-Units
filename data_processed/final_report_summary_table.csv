@@ -1,0 +1,8 @@
+Metric,Value
+Model used,"Multiple Linear Regression with Year Effect, supported by Ridge and Lasso"
+Main significant predictor,smoking_rate
+Top standardized predictor,smoking_rate
+Model R-squared,0.435
+Best regularized model,Lasso
+Top intervention priority,Smoking reduction
+Recommended focus,Target PHUs with high smoking prevalence and high stroke hospitalization
